@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841770245983",
+    "firebase_url": "https://chatrk-7e2a6.firebaseio.com",
+    "project_id": "chatrk-7e2a6",
+    "storage_bucket": "chatrk-7e2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841770245983:android:0604513aa9a34697fd20ea",
+        "android_client_info": {
+          "package_name": "riaz.chatrk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841770245983-9nj7l49uhbi4usgsjrcru02aa6d7g7k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "riaz.chatrk",
+            "certificate_hash": "6268db4498e6720a8a93bc4787b3c24ef01eca83"
+          }
+        },
+        {
+          "client_id": "841770245983-7gah7r6gcmdnvottplds8bhgn3vjn3au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHtTNnGO3iTScXnm3ZdtzRgNJ-T_Kyyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841770245983-7gah7r6gcmdnvottplds8bhgn3vjn3au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

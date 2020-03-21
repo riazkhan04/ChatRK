@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="riaz.chatrk">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/messenger_bubble_large_white"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/messenger_bubble_large_white"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AllUser_Activity"/>
+        <activity android:name=".ChatActivity"/>
+
+        <meta-data android:name="google_client_id"
+            android:value="841770245983-7gah7r6gcmdnvottplds8bhgn3vjn3au.apps.googleusercontent.com"/>
+
+        <meta-data android:name="google_client_secret"
+            android:value="HIYPnw8oLBehGtkccznUJqVp"/>
+
+    </application>
+
+</manifest>
